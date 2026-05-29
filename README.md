@@ -62,16 +62,16 @@ project/
 │   └── patients.html
 │
 └── database/
-## 📸 Captures d'écran
+## 📸 Screenshots
 
-### 🔐 Page de Login
-![Login](https://raw.githubusercontent.com/aya-ben-chaieb/skin-cancer-flask-app/master/static/captures/login-user.png)
+### 🔐 Authentification
+<img src="https://raw.githubusercontent.com/aya-ben-chaieb/skin-cancer-flask-app/master/static/captures/login-user.png" width="600"/>
 
 ### 🏠 Page d'Accueil
-![Home Page](https://raw.githubusercontent.com/aya-ben-chaieb/skin-cancer-flask-app/master/static/captures/home-page.png)
+<img src="https://raw.githubusercontent.com/aya-ben-chaieb/skin-cancer-flask-app/master/static/captures/home-page.png" width="600"/>
 
-### 📊 Dashboard - Ajout Patient
-![Dashboard](https://raw.githubusercontent.com/aya-ben-chaieb/skin-cancer-flask-app/master/static/captures/ajoutnouveau-patient.png)
+### 📊 Ajout Nouveau Patient
+<img src="https://raw.githubusercontent.com/aya-ben-chaieb/skin-cancer-flask-app/master/static/captures/ajoutnouveau-patient.png" width="600"/>
 
 ### 🔬 Résultat Diagnostic
-![Diagnostic](https://raw.githubusercontent.com/aya-ben-chaieb/skin-cancer-flask-app/master/static/captures/resultat-diagnostic.png)
+<img src="https://raw.githubusercontent.com/aya-ben-chaieb/skin-cancer-flask-app/master/static/captures/resultat-diagnostic.png" width="600"/>
