@@ -62,3 +62,22 @@ project/
 │   └── patients.html
 │
 └── database/
+## Interface de l'application
+
+### 🔐 Page de connexion
+![Login](static/captures/alogin-user.png)
+
+### 🔑 Blog avec username/password
+![Login2](static/captures/bloginavec-username-password.png)
+
+### 🖥️ Page principale
+![Home](static/captures/chome-page.png)
+
+### 👤 Exemple patient
+![Patient](static/captures/exemple-patient.png)
+
+### 🧪 Résultat du diagnostic
+![Result](static/captures/mresultat-diagnostic.png)
+
+### 📋 Liste des patients
+![Patients](static/captures/zliste-despatients.png)
