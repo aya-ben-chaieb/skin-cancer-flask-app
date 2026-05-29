@@ -62,3 +62,7 @@ project/
 │   └── patients.html
 │
 └── database/
+![Home Page](static/captures/home page.png)
+![Login](static/captures/login-user-password.png)
+![Dashboard](static/captures/home-page.png)
+![Diagnostic](static/captures/resultat-diagnostic.png)
