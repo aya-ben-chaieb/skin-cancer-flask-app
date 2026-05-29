@@ -64,11 +64,20 @@ project/
 └── database/
 ## 📸 Screenshots
 
-### 🔐 Authentification
+### 🔐 Login
 <img src="https://raw.githubusercontent.com/aya-ben-chaieb/skin-cancer-flask-app/master/static/captures/login-user.png" width="600"/>
+
+### 🔐 Login avec credentials
+<img src="https://raw.githubusercontent.com/aya-ben-chaieb/skin-cancer-flask-app/master/static/captures/loginavec-username-password.png" width="600"/>
 
 ### 🏠 Page d'Accueil
 <img src="https://raw.githubusercontent.com/aya-ben-chaieb/skin-cancer-flask-app/master/static/captures/home-page.png" width="600"/>
+
+### 👤 Exemple Patient
+<img src="https://raw.githubusercontent.com/aya-ben-chaieb/skin-cancer-flask-app/master/static/captures/exemple-patient.png" width="600"/>
+
+### 📋 Liste des Patients
+<img src="https://raw.githubusercontent.com/aya-ben-chaieb/skin-cancer-flask-app/master/static/captures/liste-despatients.png" width="600"/>
 
 ### 📊 Ajout Nouveau Patient
 <img src="https://raw.githubusercontent.com/aya-ben-chaieb/skin-cancer-flask-app/master/static/captures/ajoutnouveau-patient.png" width="600"/>
