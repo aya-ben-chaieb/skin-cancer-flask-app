@@ -62,7 +62,17 @@ project/
 │   └── patients.html
 │
 └── database/
-![Home Page](static/captures/home page.png)
-![Login](static/captures/login-user-password.png)
-![Dashboard](static/captures/home-page.png)
+## 📸 Captures d'écran
+
+### 🔐 Page de Login
+![Login](static/captures/login-user.png)
+
+### 🏠 Page d'Accueil
+![Home Page](static/captures/home-page.png)
+
+### 📊 Dashboard - Ajout Patient
+![Dashboard](static/captures/ajoutnouveau-patient.png)
+
+### 🔬 Résultat Diagnostic
 ![Diagnostic](static/captures/resultat-diagnostic.png)
+<img src="static/captures/home-page.png" width="600" alt="Home Page"/>
