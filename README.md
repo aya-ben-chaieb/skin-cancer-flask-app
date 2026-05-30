@@ -66,17 +66,15 @@ project/
 ### Page de connexion
 ![Login](static/login-user.png)
 
-### Page d'accueil
-![Accueil](static/captures/chome-page.png)
-
 ### Connexion avec identifiants
-![Login avec username](static/captures/bloginavec-username-password.png)
+![Login avec username](static/login-avecpassword.png)
 
-### Exemple patient
-![Exemple patient](static/captures/exemple-patient.png)
+### Page d'accueil
+![Accueil](static/home-page.png)
+
+### Liste patients
+![Exemple patient](static/liste-patients.png)
 
 ### Résultat diagnostic
-![Résultat](static/captures/mresultat-diagnostic.png)
+![Résultat](static/resultat-diagnostic.png)
 
-### Liste des patients
-![Liste patients](static/captures/zliste-despatients.png)
