@@ -62,8 +62,6 @@ project/
 │   └── patients.html
 │
 └── database/
-## 📸 Interface Login
 
-<img width="1130" height="601" alt="login-user" src="https://github.com/user-attachments/assets/4ed86a6c-c21e-4f70-80dd-5d5c4985358a" />
 
 
