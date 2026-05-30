@@ -64,7 +64,7 @@ project/
 ## Captures d'écran
 
 ### Page de connexion
-![Login](static/captures/alogin-user.png)
+![Login](static/captures/login-user.png)
 
 ### Page d'accueil
 ![Accueil](static/captures/chome-page.png)
